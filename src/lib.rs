@@ -1,3 +1,7 @@
+pub fn my_func() {
+    println!("Hi");
+}
+
 #[cfg(test)]
 mod tests {
     #[test]
